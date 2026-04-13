@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .voting one-word domains from Uniq
 
 **Public extract:** 9,910 rows · **Live catalog:** 9,910 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/voting`  
 **Best for:** founders, investors, studios
 
@@ -80,9 +80,9 @@ print(df.head())
 | invalid.voting    | premium   | —         | —             | 102            | 91     | 7      | —         |
 | good.voting       | available | $1,448    | —             | 82             | 55     | 4      | namecheap |
 | test.voting       | premium   | —         | —             | 72             | 89     | 4      | —         |
-| alpha.voting      | available | $1,448    | —             | 90             | 54     | 5      | namecheap |
-| indeed.voting     | premium   | —         | —             | 94             | 85     | 6      | —         |
 | zero.voting       | available | $1,448    | —             | 112            | 53     | 4      | namecheap |
+| indeed.voting     | premium   | —         | —             | 94             | 85     | 6      | —         |
+| alpha.voting      | available | $1,448    | —             | 90             | 53     | 5      | namecheap |
 | AOL.voting        | premium   | —         | —             | 86             | 85     | 3      | —         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VOTING One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VOTING One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
