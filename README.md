@@ -74,9 +74,9 @@ print(df.head())
 | can.voting        | premium   | —         | —             | 68             | 98     | 3      | —         |
 | seventeen.voting  | available | $1,448    | —             | 84             | 62     | 9      | namecheap |
 | Gmail.voting      | premium   | —         | —             | 94             | 96     | 5      | —         |
-| free.voting       | available | $1,448    | —             | 88             | 59     | 4      | namecheap |
-| ISO.voting        | premium   | —         | —             | 80             | 94     | 3      | —         |
 | ace.voting        | available | $1,448    | —             | 88             | 57     | 3      | namecheap |
+| ISO.voting        | premium   | —         | —             | 80             | 94     | 3      | —         |
+| free.voting       | available | $1,448    | —             | 88             | 57     | 4      | namecheap |
 | invalid.voting    | premium   | —         | —             | 102            | 91     | 7      | —         |
 | good.voting       | available | $1,448    | —             | 82             | 55     | 4      | namecheap |
 | test.voting       | premium   | —         | —             | 72             | 89     | 4      | —         |
