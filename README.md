@@ -1,22 +1,22 @@
-# Available .VOTING One-Word Domains (9,910)
+# Available .VOTING One-Word Domains (12,515)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C910%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C910%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C515%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .voting one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .voting one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,515 domains** on the canonical page below.
 
-**Public extract:** 9,910 rows · **Live catalog:** 9,910 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,515 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/voting`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .VOTING one-word domai
 
 ### Files
 
-- `voting.csv` — public CSV extract (9,910 rows)
-- `voting.json` — public JSON extract (9,910 rows)
+- `voting.csv` — public CSV extract (1,000 rows)
+- `voting.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| converse.voting   | available | $1,448    | —             | 64             | 73     | 8      | namecheap |
-| global.voting     | premium   | —         | —             | 108            | 99     | 6      | —         |
-| easy.voting       | available | $1,448    | —             | 128            | 68     | 4      | namecheap |
-| red.voting        | premium   | —         | —             | 80             | 99     | 3      | —         |
-| nationwide.voting | available | $1,448    | —             | 76             | 66     | 10     | namecheap |
-| help.voting       | premium   | —         | —             | 68             | 99     | 4      | —         |
-| power.voting      | available | $1,448    | —             | 98             | 62     | 5      | namecheap |
-| can.voting        | premium   | —         | —             | 68             | 98     | 3      | —         |
-| seventeen.voting  | available | $1,448    | —             | 84             | 62     | 9      | namecheap |
-| Gmail.voting      | premium   | —         | —             | 94             | 96     | 5      | —         |
-| ace.voting        | available | $1,448    | —             | 88             | 57     | 3      | namecheap |
-| ISO.voting        | premium   | —         | —             | 80             | 94     | 3      | —         |
-| free.voting       | available | $1,448    | —             | 88             | 57     | 4      | namecheap |
-| invalid.voting    | premium   | —         | —             | 102            | 91     | 7      | —         |
-| good.voting       | available | $1,448    | —             | 82             | 55     | 4      | namecheap |
-| test.voting       | premium   | —         | —             | 72             | 89     | 4      | —         |
-| zero.voting       | available | $1,448    | —             | 112            | 53     | 4      | namecheap |
-| indeed.voting     | premium   | —         | —             | 94             | 85     | 6      | —         |
-| alpha.voting      | available | $1,448    | —             | 90             | 53     | 5      | namecheap |
-| AOL.voting        | premium   | —         | —             | 86             | 85     | 3      | —         |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| hotels.voting    | available | $1,448    | —             | 64             | 82     | 6      | namecheap |
+| Microsoft.voting | premium   | —         | —             | 88             | 95     | 9      | —         |
+| winners.voting   | available | $1,448    | —             | 60             | 81     | 7      | namecheap |
+| WhatsApp.voting  | premium   | —         | —             | 90             | 84     | 8      | —         |
+| makers.voting    | available | $1,448    | —             | 62             | 67     | 6      | namecheap |
+| Chanel.voting    | premium   | —         | —             | 80             | 77     | 6      | —         |
+| travelers.voting | available | $1,448    | —             | 58             | 61     | 9      | namecheap |
+| RedSox.voting    | premium   | —         | —             | 72             | 60     | 7      | —         |
+| farmers.voting   | available | $1,448    | —             | 54             | 59     | 7      | namecheap |
+| Ryan.voting      | premium   | —         | —             | 60             | 44     | 4      | —         |
+| robots.voting    | available | $1,448    | —             | 62             | 47     | 6      | namecheap |
+| Cats.voting      | premium   | —         | —             | 59             | 33     | 4      | —         |
+| skills.voting    | available | $1,448    | —             | 58             | 47     | 6      | namecheap |
+| Jim.voting       | premium   | —         | —             | 78             | 28     | 3      | —         |
+| coins.voting     | available | $1,448    | —             | 56             | 41     | 5      | namecheap |
+| CapeCod.voting   | premium   | —         | —             | 78             | 22     | 8      | —         |
+| matcha.voting    | available | $1,448    | —             | 86             | 39     | 6      | namecheap |
+| Places.voting    | premium   | —         | —             | 74             | 22     | 6      | —         |
+| justin.voting    | available | $1,448    | —             | 58             | 38     | 7      | namecheap |
+| Mikey.voting     | premium   | —         | —             | 70             | 21     | 5      | —         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,910-row public sample | 9,910 live domains                               |
+| 1,000-row public sample | 12,515 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VOTING One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VOTING One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
