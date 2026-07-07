@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .voting one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,904 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,904 domains · **Median ask:** $1,447.96 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,904 domains · **Median ask:** $1,447.66 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/voting`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/voting`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .VOTING one-word domai
 
 ### Files
 
-- `voting.csv` — public CSV extract (1,000 rows)
-- `voting.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `voting.csv`, public CSV extract (1,000 rows)
+- `voting.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| tips.voting      | available | $1,448    | —             | 80             | 26     | 4      | namecheap |
-| Acup.voting      | premium   | —         | —             | 80             | 5      | 5      | —         |
-| homes.voting     | available | $1,448    | —             | 86             | 34     | 5      | namecheap |
-| jewels.voting    | available | $1,448    | —             | 80             | 15     | 6      | namecheap |
-| ladies.voting    | available | $1,448    | —             | 80             | 17     | 6      | namecheap |
-| barup.voting     | available | $1,448    | —             | 82             | 2      | 6      | namecheap |
-| matcha.voting    | available | $1,448    | —             | 86             | 39     | 6      | namecheap |
-| useit.voting     | available | $1,448    | —             | 94             | 7      | 6      | namecheap |
-| dogsit.voting    | available | $1,448    | —             | 96             | 2      | 6      | namecheap |
-| hangon.voting    | available | $1,448    | —             | 82             | 6      | 7      | namecheap |
-| stirup.voting    | available | $1,448    | —             | 82             | 3      | 7      | namecheap |
-| watches.voting   | available | $1,448    | —             | 84             | 19     | 7      | namecheap |
-| hotels.voting    | available | $1,448    | —             | 64             | 82     | 6      | namecheap |
-| Microsoft.voting | premium   | —         | —             | 88             | 95     | 9      | —         |
-| winners.voting   | available | $1,448    | —             | 60             | 81     | 7      | namecheap |
-| WhatsApp.voting  | premium   | —         | —             | 90             | 84     | 8      | —         |
-| makers.voting    | available | $1,448    | —             | 62             | 67     | 6      | namecheap |
-| RedSox.voting    | premium   | —         | —             | 72             | 60     | 7      | —         |
-| travelers.voting | available | $1,448    | —             | 58             | 61     | 9      | namecheap |
-| Ryan.voting      | premium   | —         | —             | 60             | 44     | 4      | —         |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| ada.voting     | available | $1,448    | —             | medium         | medium | 3      | namecheap |
+| wake.voting    | premium   | $1,448    | —             | high           | low    | 4      | namecheap |
+| ADS.voting     | available | $1,448    | —             | high           | medium | 3      | namecheap |
+| awesome.voting | premium   | $1,448    | —             | high           | medium | 7      | namecheap |
+| air.voting     | available | $1,448    | —             | high           | medium | 3      | namecheap |
+| ane.voting     | available | $1,398    | $1,448        | low            | low    | 3      | namecheap |
+| Ann.voting     | available | $1,448    | —             | high           | low    | 3      | namecheap |
+| atp.voting     | available | $1,448    | —             | medium         | low    | 3      | namecheap |
+| awe.voting     | available | $1,448    | —             | high           | low    | 3      | namecheap |
+| bce.voting     | available | $1,448    | —             | medium         | low    | 3      | namecheap |
+| box.voting     | available | $1,448    | —             | medium         | high   | 3      | namecheap |
+| bud.voting     | available | $1,448    | —             | high           | low    | 3      | namecheap |
+| day.voting     | available | $1,448    | —             | high           | low    | 3      | namecheap |
+| Fla.voting     | available | $1,448    | —             | medium         | low    | 3      | namecheap |
+| gym.voting     | available | $1,448    | —             | high           | low    | 3      | namecheap |
+| her.voting     | available | $1,448    | —             | medium         | low    | 3      | namecheap |
+| hum.voting     | available | $1,448    | —             | high           | low    | 3      | namecheap |
+| ink.voting     | available | $1,448    | —             | high           | medium | 3      | namecheap |
+| ive.voting     | available | $1,448    | —             | medium         | low    | 3      | namecheap |
+| jay.voting     | available | $1,448    | —             | medium         | low    | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .voting domains. That makes it narrower than a general brandable list and more dependent on direct relevance to elections, polls, campaigns, civic tools, advocacy, or public decision-making. Names such as tips.voting, homes.voting, and finals.voting show the range: some are literal and category-led, while others are broader words that need a clear voting-related use case. The median ask is $1,447.96, so price discipline matters. When comparing these domains, weigh semantic fit with .voting, ease of recall, and any obvious trademark exposure, especially in terms like Chanel.voting or Trex.voting.
+This list of one-word and short-phrase .voting domains includes 12,904 names, from everyday nouns like appreciation and apples to playful compounds like bonvoyage and coffeeglass. Median ask sits near $1,448, giving a baseline for comparing individual listings. Because .voting is a niche TLD, pricing and demand vary by word choice, length, and memorability rather than by category alone. When comparing these domains, weigh asking price against renewal cost, brand clarity, and how easily each word reads and spells as a standalone name.
 
-- Best fits are words that make sense with the .voting extension
-- Median ask is $1,447.96 across 12,904 listed domains
-- Generic words can be stronger than forced brand terms here
-- Avoid obvious trademark strings before shortlisting
+- 12,904 one-word & short-phrase names on the .voting TLD
+- Median ask near $1,448 across the full selection
+- Everyday words like Apples, Acup, and Midmorning included
+- Compare price, renewal, and brandability before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VOTING One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VOTING One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
