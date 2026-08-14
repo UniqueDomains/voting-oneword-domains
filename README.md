@@ -1,10 +1,10 @@
-# Available .VOTING One-Word Domains (15,830)
+# Available .VOTING One-Word Domains (16,100)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-15%2C830%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-16%2C100%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .voting one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **15,830 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **16,100 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 15,830 domains · **Median ask:** $1,433.97 · **High-demand under $2,500:** 79
+**Public extract:** 1,000 rows · **Live catalog:** 16,100 domains · **Median ask:** $1,433.35 · **High-demand under $2,500:** 79
 
 **Last updated:** 2026-08-14
 **Canonical page:** `https://unique.domains/domains/tld/voting`
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 15,830 live domains                        |
+| 1,000-row public sample | 16,100 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 79 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
