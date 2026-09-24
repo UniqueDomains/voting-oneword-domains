@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .voting one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 32,935 domains · **Median ask:** $1,414.54 · **High-demand under $2,500:** 78
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/voting`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| yes.voting  | available | $1,448    | —             | high           | medium | 3      | namecheap |
-| pure.voting | available | $1,448    | —             | high           | medium | 4      | namecheap |
-| ada.voting  | available | $1,448    | —             | medium         | medium | 3      | namecheap |
-| ads.voting  | available | $1,448    | —             | high           | medium | 3      | namecheap |
-| aft.voting  | available | $1,398    | $1,448        | low            | low    | 3      | namecheap |
-| air.voting  | available | $1,398    | $1,448        | medium         | low    | 3      | namecheap |
-| ane.voting  | available | $1,398    | $1,448        | low            | low    | 3      | namecheap |
-| ann.voting  | available | $1,448    | —             | high           | low    | 3      | namecheap |
-| atp.voting  | available | $1,448    | —             | medium         | low    | 3      | namecheap |
-| awe.voting  | available | $1,448    | —             | high           | low    | 3      | namecheap |
-| bce.voting  | available | $1,448    | —             | medium         | low    | 3      | namecheap |
-| box.voting  | available | $1,398    | $1,448        | low            | low    | 3      | namecheap |
-| bud.voting  | available | $1,448    | —             | high           | low    | 3      | namecheap |
-| bum.voting  | available | $1,398    | $1,448        | low            | low    | 3      | namecheap |
-| day.voting  | available | $1,448    | —             | high           | low    | 3      | namecheap |
-| fla.voting  | available | $1,448    | —             | medium         | low    | 3      | namecheap |
-| gym.voting  | available | $1,448    | —             | high           | low    | 3      | namecheap |
-| her.voting  | available | $1,448    | —             | medium         | low    | 3      | namecheap |
-| hum.voting  | available | $1,448    | —             | high           | low    | 3      | namecheap |
-| ink.voting  | available | $1,448    | —             | high           | medium | 3      | namecheap |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| ada.voting | available | $1,448    | —             | medium         | medium | 3      | namecheap |
+| ads.voting | available | $1,448    | —             | high           | medium | 3      | namecheap |
+| aft.voting | available | $1,398    | $1,448        | low            | low    | 3      | namecheap |
+| air.voting | available | $1,398    | $1,448        | medium         | low    | 3      | namecheap |
+| ane.voting | available | $1,398    | $1,448        | low            | low    | 3      | namecheap |
+| ann.voting | available | $1,448    | —             | high           | low    | 3      | namecheap |
+| atp.voting | available | $1,448    | —             | medium         | low    | 3      | namecheap |
+| awe.voting | available | $1,448    | —             | high           | low    | 3      | namecheap |
+| bce.voting | available | $1,448    | —             | medium         | low    | 3      | namecheap |
+| box.voting | available | $1,398    | $1,448        | low            | low    | 3      | namecheap |
+| bud.voting | available | $1,448    | —             | high           | low    | 3      | namecheap |
+| bum.voting | available | $1,398    | $1,448        | low            | low    | 3      | namecheap |
+| day.voting | available | $1,448    | —             | high           | low    | 3      | namecheap |
+| fla.voting | available | $1,448    | —             | medium         | low    | 3      | namecheap |
+| gym.voting | available | $1,448    | —             | high           | low    | 3      | namecheap |
+| her.voting | available | $1,448    | —             | medium         | low    | 3      | namecheap |
+| hum.voting | available | $1,448    | —             | high           | low    | 3      | namecheap |
+| ink.voting | available | $1,448    | —             | high           | medium | 3      | namecheap |
+| ive.voting | available | $1,448    | —             | medium         | low    | 3      | namecheap |
+| ixc.voting | available | $1,398    | $1,448        | low            | low    | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VOTING One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VOTING One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
