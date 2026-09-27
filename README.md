@@ -1,10 +1,10 @@
-# Available .VOTING One-Word Domains (24,396)
+# Available .VOTING One-Word Domains (24,688)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C396%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C688%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .voting one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **24,396 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,688 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 24,396 domains · **Median ask:** $1,412.34 · **High-demand under $2,500:** 149
+**Public extract:** 1,000 rows · **Live catalog:** 24,688 domains · **Median ask:** $1,411.32 · **High-demand under $2,500:** 154
 
 **Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/voting`
@@ -68,6 +68,7 @@ print(df.head())
 | groves.voting   | premium   | $1,448    | —             | high           | low    | 6      | namecheap |
 | ago.voting      | available | $1,398    | $1,448        | high           | low    | 3      | namecheap |
 | grouping.voting | premium   | $1,448    | —             | high           | low    | 8      | namecheap |
+| atc.voting      | available | $1,398    | $1,448        | high           | low    | 3      | namecheap |
 | bot.voting      | available | $1,398    | $1,448        | high           | medium | 3      | namecheap |
 | boy.voting      | available | $1,448    | —             | high           | low    | 3      | namecheap |
 | bpm.voting      | available | $1,398    | $1,448        | high           | low    | 3      | namecheap |
@@ -83,7 +84,6 @@ print(df.head())
 | kay.voting      | available | $1,599.99 | $1,599.99     | high           | low    | 3      | name.com  |
 | khz.voting      | available | $1,398    | $1,448        | high           | low    | 3      | namecheap |
 | mid.voting      | available | $1,448    | —             | high           | low    | 3      | namecheap |
-| plc.voting      | available | $1,398    | $1,448        | high           | low    | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 24,396 live domains                        |
+| 1,000-row public sample | 24,688 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 149 high-demand names under $2,500         |
+| Basic exported fields   | 154 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
